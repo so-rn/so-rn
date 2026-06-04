@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/so-rn?tab=repositories"><img src="https://img.shields.io/badge/Focus-Data%20Science%20%2F%20ML-1f6feb?style=for-the-badge" alt="Focus"></a>
-  <img src="https://komarev.com/ghpvc/?username=so-rn&style=for-the-badge&color=1f6feb" alt="Profile views">
 </p>
 
 ---
