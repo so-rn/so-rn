@@ -34,6 +34,7 @@ calibrated probabilities**, and tying every model back to a real business decisi
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
     </td>
   </tr>
@@ -99,19 +100,6 @@ calibrated probabilities**, and tying every model back to a real business decisi
 |---|---|---|
 | **[Telcom-Churn-Prediction](https://github.com/so-rn/Telcom-Churn-Prediction)** | Leakage-free customer-churn ML pipeline — split-before-engineering, in-fold preprocessing, isotonic calibration, cost-driven threshold, SHAP explainability, plus a premium Streamlit dashboard. Optimised for business net-savings, not raw accuracy. | `LightGBM` · `SMOTE` · `Optuna` · `SHAP` · `Streamlit` |
 | **[Migros-Location-Optimizer](https://github.com/so-rn/Migros-Location-Optimizer)** | Geospatial data-science project that identifies optimal locations for new Migros branches using spatial analytics and machine learning. | `Python` · `Jupyter` · `Geospatial ML` |
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=so-rn&theme=tokyonight" alt="GitHub stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=so-rn&theme=tokyonight" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=so-rn&theme=tokyonight&hide_border=true" alt="GitHub streak">
-</p>
 
 ---
 
