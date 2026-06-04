@@ -100,13 +100,3 @@ calibrated probabilities**, and tying every model back to a real business decisi
 |---|---|---|
 | **[Telcom-Churn-Prediction](https://github.com/so-rn/Telcom-Churn-Prediction)** | Leakage-free customer-churn ML pipeline — split-before-engineering, in-fold preprocessing, isotonic calibration, cost-driven threshold, SHAP explainability, plus a premium Streamlit dashboard. Optimised for business net-savings, not raw accuracy. | `LightGBM` · `SMOTE` · `Optuna` · `SHAP` · `Streamlit` |
 | **[Migros-Location-Optimizer](https://github.com/so-rn/Migros-Location-Optimizer)** | Geospatial data-science project that identifies optimal locations for new Migros branches using spatial analytics and machine learning. | `Python` · `Jupyter` · `Geospatial ML` |
-
----
-
-### 🤝 Connect
-
-<p align="center">
-  <a href="https://github.com/so-rn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-<p align="center"><sub>“Honest, calibrated, and defensible” &gt; “99% accuracy”.</sub></p>
