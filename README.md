@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm SoRaaN Mahmoudi 👋</h1>
+<h1 align="center">Hi, I'm SoRaaN 👋</h1>
 
 <p align="center">
   <b>Data Scientist · Machine Learning Engineer</b><br>
