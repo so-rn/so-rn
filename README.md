@@ -105,8 +105,8 @@ calibrated probabilities**, and tying every model back to a real business decisi
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=so-rn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=so-rn&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=so-rn&theme=tokyonight" alt="GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=so-rn&theme=tokyonight" alt="Top languages">
 </p>
 
 <p align="center">
