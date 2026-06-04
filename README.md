@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm SoRaaN Mahmoudi 👋</h1>
 
 <p align="center">
-  <b>Data Scientist · Machine Learning Engineer</b><br>
+  <b>Data Scientist · ML Engineer · Cybersecurity & Networking</b><br>
   📍 Switzerland
 </p>
 
@@ -14,15 +14,21 @@
 
 ### 🚀 About me
 
-I build **clean, explainable, and business-oriented machine-learning systems** — the kind
-that hold up under scrutiny rather than chasing inflated leaderboard numbers. I care about
-zero data leakage, honest evaluation, calibrated probabilities, and tying every model back
-to a real decision.
+I'm a **Data Scientist & ML Engineer** with a strong foundation in **cybersecurity and
+networking**. I build clean, explainable, and business-oriented machine-learning systems —
+the kind that hold up under scrutiny rather than chasing inflated leaderboard numbers.
+I care about zero data leakage, honest evaluation, calibrated probabilities, and tying every
+model back to a real decision.
 
-- 🔭 Working on end-to-end ML pipelines, from raw data to deployed dashboards
+That security background shapes how I work: I think about data integrity, edge cases, and
+what can go wrong — not just the happy path.
+
+- 🔭 Building end-to-end ML pipelines, from raw data to deployed dashboards
 - 🧠 Interested in churn modeling, geospatial analytics, and decision-cost optimization
+- 🔐 Comfortable in Linux and hands-on with network & cybersecurity tooling
 - 🛠️ I like turning models into things people can actually use (Streamlit, clean APIs)
-- 💬 Ask me about LightGBM, calibration, SHAP, and avoiding leakage in CV
+- 💬 Ask me about LightGBM, calibration, SHAP, and avoiding leakage in cross-validation
+- 📫 Reach me on GitHub — always open to interesting data & security problems
 
 ---
 
