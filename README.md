@@ -51,7 +51,6 @@ calibrated probabilities**, and tying every model back to a real business decisi
     <td>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
       <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightning&logoColor=white" alt="LightGBM">
-      <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost">
       <img src="https://img.shields.io/badge/Optuna-1f6feb?style=flat-square&logo=optuna&logoColor=white" alt="Optuna">
       <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square" alt="SHAP">
       <img src="https://img.shields.io/badge/imbalanced--learn-3499CD?style=flat-square" alt="imbalanced-learn">
@@ -61,7 +60,6 @@ calibrated probabilities**, and tying every model back to a real business decisi
     <td align="right"><b>Deep Learning &amp; AI</b></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
     </td>
   </tr>
   <tr>
