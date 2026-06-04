@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm SoRaaN Mahmoudi 👋</h1>
 
 <p align="center">
-  <b>Data Scientist · ML Engineer · Cybersecurity & Networking</b><br>
+  <b>Data Scientist · Machine Learning Engineer</b><br>
   📍 Switzerland
 </p>
 
@@ -14,21 +14,16 @@
 
 ### 🚀 About me
 
-I'm a **Data Scientist & ML Engineer** with a strong foundation in **cybersecurity and
-networking**. I build clean, explainable, and business-oriented machine-learning systems —
-the kind that hold up under scrutiny rather than chasing inflated leaderboard numbers.
-I care about zero data leakage, honest evaluation, calibrated probabilities, and tying every
-model back to a real decision.
-
-That security background shapes how I work: I think about data integrity, edge cases, and
-what can go wrong — not just the happy path.
+I'm a **Data Scientist & Machine Learning Engineer** who builds clean, explainable, and
+business-oriented ML systems — the kind that hold up under scrutiny rather than chasing
+inflated leaderboard numbers. I care about **zero data leakage, honest evaluation,
+calibrated probabilities**, and tying every model back to a real business decision.
 
 - 🔭 Building end-to-end ML pipelines, from raw data to deployed dashboards
 - 🧠 Interested in churn modeling, geospatial analytics, and decision-cost optimization
-- 🔐 Comfortable in Linux and hands-on with network & cybersecurity tooling
-- 🛠️ I like turning models into things people can actually use (Streamlit, clean APIs)
+- 📊 I turn messy data into models people can actually use (Streamlit, clean APIs)
 - 💬 Ask me about LightGBM, calibration, SHAP, and avoiding leakage in cross-validation
-- 📫 Reach me on GitHub — always open to interesting data & security problems
+- 📫 Reach me on GitHub — always open to interesting data problems
 
 ---
 
@@ -66,7 +61,6 @@ what can go wrong — not just the happy path.
     <td align="right"><b>Deep Learning &amp; AI</b></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
     </td>
   </tr>
@@ -95,8 +89,6 @@ what can go wrong — not just the happy path.
     <td align="right"><b>MLOps &amp; Deploy</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
     </td>
